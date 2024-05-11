@@ -8,7 +8,9 @@ At the end of the team sprint, I'll receive a Clicked Certification of Completio
 
 Lemonade, an emerging online insurance provider, faces the challenge of lacking a comprehensive cybersecurity program suitable for its unique business scale and scope. In this scenario,I will collaborate with an external team to develop and implement a tailored cybersecurity strategy that aligns with Lemonade’s size and diverse service offerings, most especially as they launched their AI model to predict catastrophes and claims, and uses that data to price their policies.
 
-What I will learn - Stakeholder Collaboration - I will learn the importance of stakeholder collaboration in implementing a security program, including conducting interviews and gathering insights to align the program with organizational goals. 
+What I will learn.
+
+Stakeholder Collaboration - I will learn the importance of stakeholder collaboration in implementing a security program, including conducting interviews and gathering insights to align the program with organizational goals. 
 
 Strategic Planning - I will develop skills in creating comprehensive security plan proposals and roadmaps, ensuring alignment with business objectives and addressing the evolving needs of the organization.
 

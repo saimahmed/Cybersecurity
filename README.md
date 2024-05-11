@@ -1,5 +1,5 @@
 # Cybersecurity
-Creating a cybersecurity program for an insurance technology company -
+Creating a cybersecurity program for an insurance technology company.
 
 Experience Overview - In this experience, me and my team will be responsible for creating and implementing an enterprise security program for a company that utilizes AI technology. Me and my team will be considering all of the action items for a Security Project and managing them accordingly and securely. This may sound like a no-brainer, but a lot of planning and analysis is needed here. I will be working with various project stakeholders to ensure their needs are m
 et, voices are heard, and most importantly that the project is completed on time, on-budget, and in the most secure, risk-free way possible.
